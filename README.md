@@ -5,7 +5,7 @@ every character except the player. The voices are generated with a text-to-speec
 (Breeze TTS server) from written character descriptions. **All audio is AI-generated.**
 
 - Voice files (about 14 GB, 53,000 clips): https://huggingface.co/datasets/moond13/scarlet-hollow-voices
-- Mod page: (add the Nexus Mods link here)
+- Mod page: https://www.nexusmods.com/scarlethollow/mods/23?tab=description
 
 This repository contains the tools and the installer. It contains **no game files, no game
 script text and no audio**.
